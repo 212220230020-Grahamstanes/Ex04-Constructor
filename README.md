@@ -1,4 +1,6 @@
-# Ex04-Constructor
+### EX NO : 04
+### DATE  : 27.04.2022
+# <p align="center">Constructor</p>
 ## Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  
@@ -15,10 +17,14 @@ call salary method in constructor to calculate salary.
 call display method to display the output.
 ### Step6:
 stop
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+
  ## Program:
  ```c#
  using System;
-namespace Graham
+namespace stanes
 {
     public class exp4
     {
@@ -76,7 +82,8 @@ namespace Graham
 }
  ```
  ## Output:
-![image](https://user-images.githubusercontent.com/75235150/169642503-d56062bc-2879-45c1-80e6-6a64fd0960ef.png)
+ ![image](https://user-images.githubusercontent.com/75235150/169642503-d56062bc-2879-45c1-80e6-6a64fd0960ef.png)
+
 
  ## Result:
  Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
